@@ -1,3 +1,6 @@
+/*Write a short Java function that takes an array of int values  as an argument and determines if there is a pair of numbers in the array whose product is odd. */
+
+
 import java.util.Scanner;
 
 public class OddPair {
