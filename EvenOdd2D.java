@@ -1,3 +1,7 @@
+/*Write a program to input the elements of a two- dimensional array. Then from this array, make two arrays one that stores all odd elements of the two-dimensional array and the other that stores all even elements of the array. 
+Note:-  Resulting arrays will be of ArrayList type*/
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
