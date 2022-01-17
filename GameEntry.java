@@ -1,3 +1,6 @@
+/* Create an application that store a sequence of high score entries(with name and score) for a video game in an array */
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 
