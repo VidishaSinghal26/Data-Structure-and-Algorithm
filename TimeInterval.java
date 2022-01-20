@@ -1,3 +1,9 @@
+/*GLA University there is various department. It is asked to every dept to conduct meeting for all the employees of GLA University. The central Management asked the dept kindly
+share starting time and ending time of the meeting in 24 hours format so that after verifying it will be circulated among the GLA employees.
+But there is a problem that before circulating the meeting information, the central management will find out if there are any clashes between time or not. If there are clashes
+it means the employee cannot attend all the meetings. Can you help central management to find it out.*/
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 
